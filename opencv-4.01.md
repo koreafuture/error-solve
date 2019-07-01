@@ -2,7 +2,7 @@
 
 [source]    https://dhhwang89.tistory.com/15
 
-###boostdesc
+### boostdesc
 
 wget https://raw.githubusercontent.com/opencv/opencv_3rdparty/34e4206aef44d50e6bbcd0ab06354b52e7466d26/boostdesc_lbgm.i > 0ae0675534aa318d9668f2a179c2a052-boostdesc_lbgm.i
 
@@ -20,7 +20,7 @@ wget https://raw.githubusercontent.com/opencv/opencv_3rdparty/34e4206aef44d50e6b
 
  
 
-###vgg
+### vgg
 
 wget https://raw.githubusercontent.com/opencv/opencv_3rdparty/fccf7cd6a4b12079f73bbfb21745f9babcd4eb1d/vgg_generated_120.i >  151805e03568c9f490a5e3a872777b75-vgg_generated_120.i
 
