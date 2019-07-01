@@ -34,7 +34,7 @@ wget https://raw.githubusercontent.com/opencv/opencv_3rdparty/fccf7cd6a4b12079f7
 
 https://dhhwang89.tistory.com/15
 
-#In file included from /home/boumsoo/opencv/opencv-4.0.1/modules/python/src2/cv2.cpp:109:0:
+# In file included from /home/boumsoo/opencv/opencv-4.0.1/modules/python/src2/cv2.cpp:109:0:
 
 /home/boumsoo/opencv/opencv-4.0.1/build/modules/python_bindings_generator/pyopencv_generated_include.h:21:10: fatal error: opencv2/quality/qualitybase.hpp: No such file or directory
 
