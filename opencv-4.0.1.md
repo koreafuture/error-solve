@@ -1,10 +1,10 @@
 # opencv 4.0.1 install 
-[source] https://www.learnopencv.com/install-opencv-4-on-ubuntu-18-04/
-[source] https://webnautes.tistory.com/1186
+source : https://www.learnopencv.com/install-opencv-4-on-ubuntu-18-04/
+source : https://webnautes.tistory.com/1186
 
 # error-solveOpenCV-4.0.1  fatal error: boostdesc_binboost_128.i: No such file or directory
 
-[source]    https://dhhwang89.tistory.com/15
+source :   https://dhhwang89.tistory.com/15
 
 ### boostdesc
 
@@ -34,7 +34,7 @@ wget https://raw.githubusercontent.com/opencv/opencv_3rdparty/fccf7cd6a4b12079f7
 
 wget https://raw.githubusercontent.com/opencv/opencv_3rdparty/fccf7cd6a4b12079f73bbfb21745f9babcd4eb1d/vgg_generated_48.i >  e8d0dcd54d1bcfdc29203d011a797179-vgg_generated_48.i
 
-출처: 
+source: 
 
 https://dhhwang89.tistory.com/15
 
@@ -49,6 +49,6 @@ include "opencv2/quality/qualitybase.hpp"
     cd build
     sudo make install...
 
-[source]: https://stackoverflow.com/questions/52353883/opencv-installation-error-no-such-file-or-directory-pyopencv-generated-include
+source : https://stackoverflow.com/questions/52353883/opencv-installation-error-no-such-file-or-directory-pyopencv-generated-include
 
 
