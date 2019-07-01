@@ -1,5 +1,5 @@
 # opencv 4.0.1 install 
-source : https://www.learnopencv.com/install-opencv-4-on-ubuntu-18-04/
+source : https://www.learnopencv.com/install-opencv-4-on-ubuntu-18-04
 source : https://webnautes.tistory.com/1186
 
 # error-solveOpenCV-4.0.1  fatal error: boostdesc_binboost_128.i: No such file or directory
